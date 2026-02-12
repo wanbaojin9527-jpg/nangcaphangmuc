@@ -27,8 +27,8 @@ export const APP_CONFIG = {
   assets: {
     logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KhKFOMIMQzaLHrsXvrf0VKYSxmzYJr_ojA&s",
     stampUrl: "https://res.cloudinary.com/dutj4khkq/image/upload/v1770528397/photo_2026-02-08_11-55-21_olbqeb.jpg",
-    subTitle: "Hệ Thống Mẹ & Bé Cao Cấp - Trải Nghiệm Thượng Lưu",
-    programName: "Chương trình Khách hàng Thượng lưu",
+    subTitle: "Hệ Thống Mẹ & Bé Cao Cấp - Nâng Cấp Hạn Mức Kim Cương",
+    programName: "Chương trình Khách hàng Kim Cương",
     watermarkOpacity: "0.03" // Độ mờ của hình mờ mẹ và bé (0 đến 1)
   },
 
@@ -49,7 +49,7 @@ export const APP_CONFIG = {
     // Điều 01
     section1: {
       title: "Mục đích hợp đồng",
-      content: "Văn bản này xác lập các điều khoản và điều kiện cho việc nâng cấp hạn mức tín dụng và giao dịch ưu tiên dành riêng cho Khách hàng Thượng lưu. Mục đích nhằm tối ưu hóa trải nghiệm mua sắm và cung cấp các giải pháp tài chính linh hoạt nhất cho sự phát triển của mẹ và bé."
+      content: "Văn bản này xác lập các điều khoản và điều kiện cho việc nâng cấp hạn mức tín dụng và giao dịch ưu tiên dành riêng cho Khách hàng Kim Cương. Mục đích nhằm tối ưu hóa trải nghiệm mua sắm và cung cấp các giải pháp tài chính linh hoạt nhất cho sự phát triển của mẹ và bé."
     },
     // Điều 02
     section2: {
