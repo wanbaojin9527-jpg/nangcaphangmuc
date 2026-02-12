@@ -142,7 +142,8 @@ const Contract: React.FC<Props> = ({ data, signature, onSign, onUpdateData }) =>
         <div className="text-left">
           <h3 className="text-[10px] uppercase font-bold text-[#d4af37] mb-2 tracking-widest">{APP_CONFIG.headings.partyA}</h3>
           <p className="font-bold text-lg">{data.brandName}</p>
-          <p className="text-xs text-slate-500">Mã số thuế: 0312345678</p>
+          <p className="text-xs text-slate-500">{APP_CONFIG.brandInfo.addressLabel} {APP_CONFIG.brandInfo.address}</p>
+          <p className="text-xs text-slate-500">{APP_CONFIG.brandInfo.companyIdLabel} {APP_CONFIG.brandInfo.taxId}</p>
         </div>
         <div className="text-left">
           <h3 className="text-[10px] uppercase font-bold text-[#d4af37] mb-2 tracking-widest">{APP_CONFIG.headings.partyB}</h3>
