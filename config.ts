@@ -48,7 +48,7 @@ export const APP_CONFIG = {
     representativeA: "Đại diện Bên A",
     representativeB: "Bên B (Khách hàng)",
     sealSignedText: "Đã ký và đóng dấu",
-    verifiedStamp: "VERIFIED BY BANK",
+    verifiedStamp: "ĐÃ XÁC THỰC",
     awaitingStamp: "AWAITING PROOF"
   },
 
