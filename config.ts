@@ -72,12 +72,12 @@ export const APP_CONFIG = {
       benefits: [
         { title: "Bảo mật ưu tiên", desc: "Giao dịch được mã hóa và xác thực bởi lớp bảo mật riêng tư cấp cao." },
         { title: "Ưu đãi độc quyền", desc: "Tích lũy x5 điểm thưởng và quyền tham gia các sự kiện private." },
-        { title: "Nâng cấp không giới hạn", desc: "Khả năng mở rộng hạn mức lên đến 10 tỷ VNĐ sau 6 tháng duy trì tốt." }
+        { title: "Nâng cấp không giới hạn", desc: "Khả năng mở rộng hạn mức lên đến 10 tỷ VNĐ." }
       ]
     },
     section4: {
       title: "Nghĩa vụ khách hàng",
-      content: "Bên B cam kết cung cấp đầy đủ và trung thực các hồ sơ liên quan khi có yêu cầu. Tuân thủ tuyệt đối các chính sách bán hàng, đổi trả và sử dụng dịch vụ của hệ thống. Không sử dụng hạn mức cho các mục đích vi phạm pháp luật hoặc ảnh hưởng đến uy tín thương hiệu."
+      content: "Bên B cam kết cung cấp đầy đủ và trung thực các hồ sơ liên quan khi có yêu cầu. Tuân thủ tuyệt đối các chính sách và sử dụng dịch vụ của hệ thống. Không sử dụng hạn mức cho các mục đích vi phạm pháp luật hoặc ảnh hưởng đến uy tín thương hiệu."
     },
     section5: {
       title: "Hiệu lực & Cam kết",
