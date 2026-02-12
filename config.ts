@@ -64,7 +64,7 @@ export const APP_CONFIG = {
       postContent: "VNĐ, việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc.",
       items: [
         "Khách hàng thuộc danh sách đặc cách ưu tiên của hệ thống.",
-        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức."
+        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 860.000.000VND"
       ]
     },
     section3: {
