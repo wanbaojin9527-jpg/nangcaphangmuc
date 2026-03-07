@@ -17,7 +17,7 @@ export const APP_CONFIG = {
   defaultData: {
     brandName: "Con Cưng Mẹ & Bé",
     customerName: "NGUYEN THI HONG NHUNG",
-    limitAmount: "2.000.000.000", // Hạn mức mặc định
+    limitAmount: "1.000.000.000", // Hạn mức mặc định
     contractDate: new Date().toLocaleDateString('vi-VN'), // Ngày hiện tại
     contractId: `CC-VIP-${Math.floor(Math.random() * 900000) + 100000}`,
     balanceImage: null // Hình ảnh số dư mặc định (null là chưa có)
