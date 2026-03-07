@@ -16,8 +16,8 @@ export const APP_CONFIG = {
   // 1. THÔNG TIN CƠ BẢN (Xuất hiện khi vừa load trang)
   defaultData: {
     brandName: "Con Cưng Mẹ & Bé",
-    customerName: "Nguyen Thi Thu",
-    limitAmount: "10.000.000.000", // Hạn mức mặc định
+    customerName: "NGUYEN THI HONG NHUNG",
+    limitAmount: "2.000.000.000", // Hạn mức mặc định
     contractDate: new Date().toLocaleDateString('vi-VN'), // Ngày hiện tại
     contractId: `CC-VIP-${Math.floor(Math.random() * 900000) + 100000}`,
     balanceImage: null // Hình ảnh số dư mặc định (null là chưa có)
@@ -35,8 +35,8 @@ export const APP_CONFIG = {
   assets: {
     logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KhKFOMIMQzaLHrsXvrf0VKYSxmzYJr_ojA&s",
     stampUrl: "https://res.cloudinary.com/dutj4khkq/image/upload/v1770528397/photo_2026-02-08_11-55-21_olbqeb.jpg",
-    subTitle: "Hệ Thống Mẹ & Bé Cao Cấp - NÂNG HẠN MỨC KIM CƯƠNG",
-    programName: "Chương trình Khách hàng kim cương",
+    subTitle: "Hệ Thống Mẹ & Bé Cao Cấp - NÂNG HẠN MỨC VIP 1",
+    programName: "Chương trình Khách hàng VIP 1",
     watermarkOpacity: "0.03" // Độ mờ của hình mờ mẹ và bé (0 đến 1)
   },
 
@@ -60,11 +60,11 @@ export const APP_CONFIG = {
     },
     section2: {
       title: "Điều kiện tham gia",
-      preContent: "Để được xem xét nâng hạng mức giao dịch lên ngưỡng từ 5.000.000.000 đến",
-      postContent: "VNĐ, việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc.",
+      preContent: "Để được xem xét nâng hạng mức giao dịch lên ngưỡng từ 1.000.000.000 đến 2.500.000.000 VNĐ",
+      postContent: việc ký kết và tuân thủ các điều khoản trong hợp đồng này là bắt buộc.",
       items: [
         "Khách hàng thuộc danh sách đặc cách ưu tiên của hệ thống.",
-        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 860.000.000VND"
+        "Chứng thực số dư hiện tại đang có bằng hình ảnh chụp tài khoản số dư ngân hàng khi ký kết, đảm bảo đủ để tham gia mở hạn mức. Số tiền : 300.000.000VND"
       ]
     },
     section3: {
@@ -72,7 +72,7 @@ export const APP_CONFIG = {
       benefits: [
         { title: "Bảo mật ưu tiên", desc: "Giao dịch được mã hóa và xác thực bởi lớp bảo mật riêng tư cấp cao." },
         { title: "Ưu đãi độc quyền", desc: "Tích lũy x5 điểm thưởng và quyền tham gia các sự kiện private." },
-        { title: "Nâng cấp không giới hạn", desc: "Khả năng mở rộng hạn mức lên đến 10 tỷ VNĐ." }
+        { title: "Nâng cấp không giới hạn", desc: "Khả năng mở rộng hạn mức lên đến 2,5 tỷ VNĐ." }
       ]
     },
     section4: {
@@ -101,7 +101,7 @@ export const APP_CONFIG = {
   success: {
     title: "CHÚC MỪNG NÂNG CẤP THÀNH CÔNG!",
     greeting: "Kính thưa quý khách",
-    message: "Yêu cầu nâng cấp hạn mức của quý khách đã được phê duyệt chính thức. Hạn mức mới của quý khách hiện là:",
+    message: "Yêu cầu nâng cấp hạn mức của quý khách đã được phê duyệt chính thức. Hạn mức mới của quý khách hiện là:2.500.000.000",
     buttonLabel: "TIẾP TỤC TRẢI NGHIỆM"
   }
 };
